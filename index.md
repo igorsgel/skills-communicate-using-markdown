@@ -9,3 +9,11 @@ Addimg image, step 2
 
 ![Image of Gel](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hairgel.JPG/1200px-Hairgel.JPG)
 
+``` javascript
+var myVar = "Hello world";
+```
+
+``` C
+char myString[] = "Hello world";
+```
+
